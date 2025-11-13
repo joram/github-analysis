@@ -1,0 +1,7 @@
+gql[all]
+neo4j-driver
+pandas
+gspread
+oauth2client
+matplotlib
+dotenv
